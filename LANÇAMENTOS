@@ -1,0 +1,32 @@
+
+
+<item>
+<title>[B] [COLOR line] *NEW [/COLOR] [/B] [B] NOME - [COLOR yellow] [2019] [/COLOR] - [COLOR orange] (HD) [/COLOR] - DUBLADO [/B] </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=blob:https://cdn.yandexcloud.ga/45bfe11a-3007-4c4c-893e-2fd1fcc2a692$$lsname=[COLOR orange]HD [/COLOR] -VIDRO <link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=blob:https://cdn.yandexcloud.ga/117eab79-b4be-47e1-9d60-c27a498b0eb8$$lsname=[COLOR orange]HD [/COLOR] -KILLERMAN<link>
+<link>URL AQUI$$lsname=[COLOR orange]HD [/COLOR] - LINK 3<link>
+<thumbnail></thumbnail>
+<fanart>https://ia601508.us.archive.org/23/items/fanart_202002/fanart.jpg</fanart>
+<info><info>
+</item>
+
+
+MODELO GDRIVE APENAS UM LINK
+
+<item>
+<title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= URL AQUI ?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart>https://ia601508.us.archive.org/23/items/fanart_202002/fanart.jpg</fanart>
+<info>Um lavador de dinheiro da cidade de Nova York procura desesperadamente por respostas depois de acordar sem memória, milhões em dinheiro e drogas roubados e uma equipe insana de policiais sujos caçando-o violentamente.<info>
+</item>
+
+MODELO UNIVERSAL COM APENAS UM LINK
+
+<item>
+<title>Killrman</title>
+<link>blob:https://cdn.yandexcloud.ga/117eab79-b4be-47e1-9d60-c27a498b0eb8$$lsname=[COLOR orange]HD [/COLOR] -KILLERMAN<link>
+<thumbnail>https://www.themoviedb.org/movie/492449-killerman?language=pt-BR#</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/pVm4QzJGC5ogyEPC6FoWJKFd1SX.jpg</fanart>
+<info>Um lavador de dinheiro da cidade de Nova York procura desesperadamente por respostas depois de acordar sem memória, milhões em dinheiro e drogas roubados e uma equipe insana de policiais sujos caçando-o violentamente.<info>
+</item>
